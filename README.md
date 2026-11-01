@@ -3,7 +3,7 @@ stb_image_resize2
 
 single-file public domain (or MIT licensed) image resize library
 
-# This project discusses security-relevant bugs in public in Github Issues, and it may take significant time for security fixes to be implemented or merged. If this poses an unreasonable risk to your project, do not use stb libraries.
+This project discusses security-relevant bugs in public in Github Issues, and it may take significant time for security fixes to be implemented or merged. If this poses an unreasonable risk to your project, do not use stb libraries.
 
 By Jeff Roberts.
 
