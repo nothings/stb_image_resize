@@ -35,7 +35,7 @@ specific macro (this is documented per-library) to actually enable the function 
 For example, to use stb_image_resize2, you should have exactly one C/C++ file that doesn't
 include stb_image_resize2.h regularly, but instead does
 
-    #define STB_IMAGE_IMPLEMENTATION
+    #define STB_IMAGE_RESIZE_IMPLEMENTATION
     #include "stb_image_resize2.h"
 
 The right macro to define is pointed out right at the top of each of these libraries.
